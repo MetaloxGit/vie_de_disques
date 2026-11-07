@@ -1,0 +1,182 @@
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>Vie de disques</title>
+    <link>https://metaloxgit.github.io/music-blog/</link>
+    <description>Un article audio par artiste : guides collectors, vinyles, CD et cassettes d'occasion, état des pochettes et conseils de disquaire.</description>
+    <language>fr-FR</language>
+    <atom:link href="https://metaloxgit.github.io/vie_de_disques/feed.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Nov 2026 10:27:39 +0000</lastBuildDate>
+    <itunes:author>Vie de disques</itunes:author>
+    <itunes:summary>Un article audio par artiste : guides collectors, vinyles, CD et cassettes d'occasion, état des pochettes et conseils de disquaire.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://metaloxgit.github.io/vie_de_disques/cover.jpg" />
+    <itunes:category text="Music" />
+    <image>
+      <url>https://metaloxgit.github.io/vie_de_disques/cover.jpg</url>
+      <title>Vie de disques</title>
+      <link>https://metaloxgit.github.io/music-blog/</link>
+    </image>
+    <item>
+      <title>Christophe Et Didier en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christophe-et-didier/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Le titre « Tant Qu’il Y Aura Des Chevaux » évoque immédiatement cette époque où le 45 tours régnait en maître sur les ondes et dans les bacs. Ce duo, Christophe Et Didier, reste une énigme pour le digger averti : pas de biographie fouillée dans les encyclopédies rock, pas de discographie pléthorique. Juste ce pressage français, témoignage fragile d’une production hexagonale…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christophe-et-didier/</guid>
+      <pubDate>Sat, 07 Nov 2026 10:27:37 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261107-102737-christophe-et-didier.mp3" length="1874168" type="audio/mpeg" />
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261107-102737-christophe-et-didier.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christophe en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christophe/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Christophe, alchimiste du son français, a su traverser les époques sans jamais renier son exigence mélodique. Du yéyé naïf aux synthétiseurs froids de Bevilacqua, sa discographie est un terrain de chasse privilégié pour qui cherche la prise de son idéale. Voici une sélection pointue, passée au crible de la grille Goldmine.</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christophe/</guid>
+      <pubDate>Sat, 07 Nov 2026 01:01:04 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261107-010104-christophe.mp3" length="2690745" type="audio/mpeg" />
+      <itunes:duration>268</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261107-010104-christophe.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christine Fontane en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christine-fontane/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Christine Fontane reste l’une de ces figures singulières de la chanson française des années 70, croisée au détour d’une brocante ou d’une caisse « variétés » oubliée. Son répertoire, souvent teinté d’un lyrisme théâtral et d’arrangements orchestraux soignés, trouve sur 45 tours une intensité que le format album dilue parfois. Ces deux EP « longue durée » — Concert A Grenade et…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christine-fontane/</guid>
+      <pubDate>Sat, 07 Nov 2026 01:00:11 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261107-010011-christine-fontane.mp3" length="3752630" type="audio/mpeg" />
+      <itunes:duration>375</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261107-010011-christine-fontane.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christie Jones en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christie-jones/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Le nom de Christie Jones ne figure pas dans les encyclopédies du rock ni dans les anthologies du yé-yé mainstream. Pourtant, ce 45 tours deux titres, Je N’ai Plus Rien A Dire + Les Oiseaux De Jadis, résonne comme une pièce manquante du puzzle pop francophone des sixties. L’orchestration soignée, la voix féminine grave et cette mélancolie typique des bandes originales oubliées…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christie-jones/</guid>
+      <pubDate>Fri, 06 Nov 2026 11:10:08 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261106-111008-christie-jones.mp3" length="2773819" type="audio/mpeg" />
+      <itunes:duration>277</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261106-111008-christie-jones.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christiane Laurent en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christiane-laurent/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Quatre exemplaires d’un même 45 tours français, tous dédicacés, débarquent sur l’étagère. Ce n’est pas tous les jours qu’on croise Honneur Au 3e Age de Christiane Laurent — crédité paroles Christiane Gardes, musique Marc Etienne — dans un tel état de conservation et avec cette provenance signée. Un pressage d’époque, visiblement tiré à peu d’exemplaires, qui sent bon le…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christiane-laurent/</guid>
+      <pubDate>Fri, 06 Nov 2026 01:40:56 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261106-014056-christiane-laurent.mp3" length="3162002" type="audio/mpeg" />
+      <itunes:duration>316</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261106-014056-christiane-laurent.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christian Vebel en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christian-vebel/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Tomber sur un pressage original Decca référencé 460.789 dans un état Mint (M) pour la pochette comme pour le vinyle, c’est le genre de découverte qui rappelle pourquoi le digging en physique reste irremplaçable. Ce super 45 tours français de 1965, porté par l’énigmatique Christian Vebel, arrive dans une conservation muséale : aucune marque de manipulation, pochette sans pli ni…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christian-vebel/</guid>
+      <pubDate>Fri, 06 Nov 2026 01:39:53 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261106-013953-christian-vebel.mp3" length="2122065" type="audio/mpeg" />
+      <itunes:duration>212</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261106-013953-christian-vebel.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christian Parisy en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christian-parisy/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Christian Parisy reste une énigme discographique, l’un de ces noms que l’on croise au détour d’un bac « variétés françaises 70’s » et qui résiste aux recherches approfondies. Pas de fiche Discogs exhaustive, pas de biographie Wikipedia, juste le sillon gravé sur deux pressages RCA Victor distincts, témoins d’une époque où le 45 tours régnait en maître sur les ondes et les…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christian-parisy/</guid>
+      <pubDate>Thu, 05 Nov 2026 13:54:31 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261105-135431-christian-parisy.mp3" length="2383814" type="audio/mpeg" />
+      <itunes:duration>238</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261105-135431-christian-parisy.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Christian Morigann en vinyle ou CD d’occasion (collector)</title>
+      <link>https://metaloxgit.github.io/music-blog/blog/christian-morigann/</link>
+      <description>🎁 COLLECTIONNEUR ? UN CADEAU POUR VOUS !
+Téléchargez gratuitement notre checklist 👉 https://checklist.vddisc.com 
+💿 « 10 points à vérifier avant d'acheter un vinyle ! »
+Avant d'acheter un disque vinyle, certains détails peuvent faire toute la différence entre une bonne affaire et une mauvaise surprise.
+
+💿 DÉCOUVRIR des milliers de vinyles, CD et cassettes : retrouvez notre sélection et découvrez peut-être votre prochain coup de cœur musical !
+👉 https://liste.vddisc.com
+
+Ce 45 tours français est une pièce de « digging » pure, le genre de découverte qui rappelle pourquoi on fouille les bacs. Christian Morigann reste une figure fantomatique de la chanson hexagonale des seventies, absent des encyclopédies rock et des anthologies yéyé. Ce pressage Philips 6009 196, daté 1972, témoigne d’une production soignée pour un artiste qui n’a visiblement…</description>
+      <guid isPermaLink="false">https://metaloxgit.github.io/music-blog/blog/christian-morigann/</guid>
+      <pubDate>Thu, 05 Nov 2026 13:53:42 +0000</pubDate>
+      <enclosure url="https://metaloxgit.github.io/vie_de_disques/episodes/20261105-135342-christian-morigann.mp3" length="1874167" type="audio/mpeg" />
+      <itunes:duration>187</itunes:duration>
+      <itunes:image href="https://metaloxgit.github.io/vie_de_disques/images/20261105-135342-christian-morigann.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
